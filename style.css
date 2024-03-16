@@ -1,0 +1,328 @@
+
+.navcolor {
+  background-color: white;
+}
+.navcolor a {
+  font-family: sans-serif !important;
+  color: black !important;
+  font-size: 18px !important;
+  font-weight: bold;
+}
+
+#signin {
+  color: white;
+  font-weight: bold;
+  padding: 9px;
+}
+
+#loginimg {
+  padding-right: 4px;
+}
+
+#loginbutton:hover {
+  background-color: #002970 !important;
+}
+
+.nav-item a:hover {
+  background-color: #f5f7fa;
+}
+
+.navbar-toggler {
+  color: black !important;
+}
+
+.no-kyc {
+  background-color: #fedc26;
+  height: 8vh;
+  margin-top: 4px;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#navbarshadow {
+  box-shadow: 0px 1px 4px 3px #dbd7d7 !important;
+}
+.Most-loved-paymentapp {
+  padding: 128px 0 120px;
+  width: 1260px;
+  margin: auto;
+}
+.downloadlogo {
+  font-size: 25px;
+}
+
+.downloadlogo1 {
+  font-size: 20px;
+  margin-left: 5px;
+}
+
+#download-app {
+  background-color: black;
+  color: white;
+  border-style: none;
+  font-size: 15px;
+  height: 44px;
+  padding: 0px 24px;
+  border-radius: 30px;
+}
+
+.adjustinmostlovedpaymentapp {
+  margin-top: 130px;
+}
+
+.recharge_paybill {
+  background-color: #00baf2;
+}
+
+.book_buy {
+  background-color: #234986;
+}
+
+.mt-5 {
+  margin-top: 8rem !important;
+}
+
+.recharge_paybill .row:hover {
+  cursor: pointer;
+}
+
+.recharge_paybill .row .col-md-4:hover {
+  background-color: transparent;
+  background-color: #bdbab9;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+}
+
+.book_buy .row .col-md-4:hover {
+  background-color: transparent;
+  background-color: #bdbab9;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+}
+
+#download-app:hover {
+  color: black;
+  background-color: white;
+  border-style: groove;
+}
+
+.book_buy a {
+  text-decoration: none;
+}
+
+.recharge_paybill a {
+  text-decoration: none;
+}
+
+.paytm-payment-instruments {
+  background-color: #f5f7fa;
+}
+
+.unlimited-cashback {
+  background-color: #f5f7fa;
+}
+
+.rounded {
+  border-radius: 50px !important;
+  padding-left: 120px !important;
+  padding-bottom: 72px;
+}
+
+.learnmorebtnofpaytminstrument {
+  background-color: #002970 !important;
+  font-weight: bold;
+}
+
+.learnmorebtnofpaytminstrument:hover {
+  background-color: #00baf2 !important;
+  color: white !important;
+  border-style: none !important;
+}
+
+#navbarshadow {
+  position: sticky !important;
+}
+
+.bg {
+  background-color: white !important;
+  margin-left: 65 !important;
+  width: 42%;
+  padding-right: 12px !important;
+  margin-top: 50px !important;
+}
+
+.bg1 {
+  background-color: white !important;
+  margin-left: 1% !important;
+  width: 44%;
+  margin-top: 50px !important;
+}
+
+.unlimited-cashback {
+  display: flex;
+}
+
+.unlimited-cashback .rounded {
+  border-radius: 4% !important;
+  padding-bottom: 20px;
+}
+
+.businessLearnmore:hover {
+  text-decoration: underline;
+}
+
+.businessLearnmore {
+  text-decoration: none;
+}
+
+.paytm-moneylearnmore:hover {
+  text-decoration: underline;
+}
+
+.paytm-moneylearnmore {
+  text-decoration: none;
+  color: #00baf2;
+}
+
+.paytm-travellearnmore:hover {
+  text-decoration: underline;
+}
+
+.paytm-travellearnmore {
+  text-decoration: none;
+  color: #00baf2;
+}
+
+.color {
+  background-color: #00baf2;
+  opacity: 0.8;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.color img {
+  margin: 6%;
+  border-radius: 15px !important;
+}
+
+.color1 {
+  background-color: #00baf2;
+  opacity: 0.8;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.color1 img {
+  margin: 6%;
+  border-radius: 15px !important;
+}
+
+.color img:hover {
+  transform: scale(1.1);
+}
+
+.color:hover {
+  opacity: 1;
+}
+
+.color1:hover {
+  opacity: 1;
+}
+
+.cont {
+  display: flex;
+  margin: 3px;
+}
+
+.cont img {
+  margin-right: 3px;
+}
+
+.respicon a {
+  color: white !important;
+  text-decoration: none;
+}
+
+
+.footer {
+  background-color: #f5f7fa;
+  padding: 90px 0 0;
+}
+
+.footer .container {
+  width: 100%;
+  margin: 0 auto;
+  padding-bottom: 150px;
+}
+
+
+.footer .container .top-area .app {
+  display: flex;
+}
+
+.footer .container .top-area .app span {
+  width: 230px;
+  font-size: 20px;
+  color: #000;
+  font-weight: 600;
+}
+.footer .container .top-area {
+  padding-bottom: 60px;
+  margin-bottom: 60px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer .container .top-area a img {
+  margin-right: 10px;
+  width: 100%;
+}
+
+.footer .container .top-area .app a {
+  text-decoration: none;
+  color: #00b9f5;
+  cursor: pointer;
+  position: relative;
+}
+
+.footer .container .line .texting {
+  padding: 15px 0;
+  cursor: pointer;
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row-reverse;
+  font-size: 14px;
+  color: #505050;
+  font-weight: 700;
+}
+
+.footer .container .top-area .social-link a img {
+  width: 25px;
+  margin-right: 30px;
+  cursor: pointer;
+}
+
+
+.footer .container .line .texting img {
+  height: 12px;
+  margin-right: 2px;
+}
+
+.footer .container .top-area .social-link a .last-icon {
+  width: 12px;
+}
+
+.footer .container .line .texting:before {
+  content: "";
+  -ms-flex: 1 1;
+  flex: 1 1;
+}
+
+.footer .container .line .texting:before {
+  border-bottom: 1px solid #ccc;
+}
